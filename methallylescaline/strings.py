@@ -1,0 +1,2 @@
+alphabet = range("a", "z")
+
